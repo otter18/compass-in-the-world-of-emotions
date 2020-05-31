@@ -6,5 +6,5 @@
 5) Радоваться и наслаждаться
 ## Скриншоты
 ![Screenshot](readme_img/1.png)
-![Screenshot](readme_img/1.png)
-![Screenshot](readme_img/1.png)
+![Screenshot](readme_img/2.png)
+![Screenshot](readme_img/3.png)
